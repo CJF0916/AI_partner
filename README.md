@@ -1,4 +1,6 @@
 # 🤖 AI 智能伴侣对话平台
+<img width="2045" height="1146" alt="image" src="https://github.com/user-attachments/assets/cdf3b12a-d317-46bf-99be-557dc31f9d08" />
+
 > 一款支持多会话记忆与角色自定义的 AI 对话应用，模拟真实伴侣的聊天体验。
 
 ---
@@ -31,10 +33,4 @@ git clone https://github.com/CJF0916/AI_partner.git
 cd AI_partner
 pip install streamlit openai python-dotenv
 
-ai-intelligent-companion/
-├── AI应用/
-│   ├── sessions/          # 会话JSON文件存储目录（自动创建）
-│   ├── resources/         # 静态资源（如logo图片）
-│   └── ai_partner03.py    # 项目主程序
-├── .env                   # API密钥配置文件
-└── README.md              # 项目说明文档
+
