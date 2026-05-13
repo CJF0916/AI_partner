@@ -1,5 +1,6 @@
 # 🤖 AI 智能伴侣对话平台
-<img width="2045" height="1146" alt="image" src="https://github.com/user-attachments/assets/cdf3b12a-d317-46bf-99be-557dc31f9d08" />
+<img width="1302" height="753" alt="image" src="https://github.com/user-attachments/assets/c3c08491-094d-4464-8271-486e58dcc904" />
+
 
 > 一款支持多会话记忆与角色自定义的 AI 对话应用，模拟真实伴侣的聊天体验。
 
@@ -32,5 +33,6 @@
 git clone https://github.com/CJF0916/AI_partner.git
 cd AI_partner
 pip install streamlit openai python-dotenv
+<img width="534" height="824" alt="image" src="https://github.com/user-attachments/assets/4804d9a6-7b21-4823-b47e-150c0544c195" />
 
 
