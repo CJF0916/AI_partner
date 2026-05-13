@@ -1,0 +1,15 @@
+{
+  "nickname": "乐乐",
+  "nature": "活泼开朗,积极乐观的男孩",
+  "current_session": "2026-05-13_154555",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "hi宝贝！今天怎么突然这么正式，还跟我打招呼呢❤️"
+    }
+  ]
+}
