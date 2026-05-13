@@ -3,6 +3,12 @@
 
 
 > 一款支持多会话记忆与角色自定义的 AI 对话应用，模拟真实伴侣的聊天体验。
+> 项目名称：AI 智能伴侣对话平台项目描述：
+> 基于 Python + Streamlit + DeepSeek 大模型，开发了一款支持多会话记忆与角色设定的对话应用。用户可自定义伴侣昵称与性格，实现类微信的沉浸式对话体验；所有会话数据以 JSON 格式持久化存储，支持历史会话的加载、新建与删除功能，同时通过流式输出优化交互体验。
+技术栈：
+前端交互：Streamlit（页面构建、会话状态管理、流式输出）
+后端与 AI：DeepSeek API（对话生成）、Python（业务逻辑）
+数据存储：JSON 文件、os/datetime 模块（文件操作与时间管理）
 
 ---
 
@@ -33,6 +39,6 @@
 git clone https://github.com/CJF0916/AI_partner.git
 cd AI_partner
 pip install streamlit openai python-dotenv
-<img width="534" height="824" alt="image" src="https://github.com/user-attachments/assets/4804d9a6-7b21-4823-b47e-150c0544c195" />
+
 
 
